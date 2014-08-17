@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SmartSchool</string>
+    <string name="app_name">Smart School Mobile</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <!--Login fields-->
+    <string name="username_txt">Usuário</string>
+    <string name="password_txt">Senha</string>
+    <string name="login_btn_txt">Entrar</string>
 </resources>
